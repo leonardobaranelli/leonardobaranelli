@@ -1,5 +1,5 @@
 <div>
-    <img src="https://github.com/leonardobaranelli/leonardobaranelli/blob/main/banner.jpg"/>
+    <img src="https://github.com/leonardobaranelli/leonardobaranelli/blob/main/banner.png"/>
 </div>
 
 *<h3>Hi friend! *✨*✨*✨</h3>
