@@ -18,3 +18,4 @@
 
 *<h4 > LinkedIn: https://www.linkedin.com/in/leonardobaranelli/</h4>*
 *<h4 > Email: leoabaranelli@gmail.com</h4>*
+![Funny Frog](funnyFrog.gif)
