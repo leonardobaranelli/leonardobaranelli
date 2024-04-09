@@ -6,7 +6,9 @@
 
 *Graduated like a Full Stack Developer from Soy Henry academy, with studies in Computer Engineering and <strong>self-taught</strong>, with a strong preference in Back End development; <strong>I believe that I have everything that is required to develop solutions optimally, while communicating in a clear, simple and efficient way.</strong>*
 
-*● Currently, I'm on the lookout for opportunities as a Full Stack Developer, or even better, as a Backend Developer!*
+*I became passionate about web development! I keep my code clean, modularized, and focus on following the best practices.*
+
+*Currently, I am specializing in modern PHP with Laravel and, on the lookout for opportunities as a Full Stack Developer, or even better, as a Backend Developer!*
 
 *<h4>Portfolio: https://leonardo-baranelli.vercel.app</h4>*
 
