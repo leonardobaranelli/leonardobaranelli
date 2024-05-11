@@ -4,7 +4,7 @@
 
 <p> </p>
 
-*Graduated like a Full Stack Developer from Soy Henry academy, with studies at engineering university and <strong>self-taught</strong>, with a strong preference in Back End development; <strong>I believe that I have everything that is required to develop solutions optimally, while communicating in a clear, simple and efficient way.</strong>*
+*Graduated like a Full Stack Developer from Soy Henry academy, with studies at engineering university and <strong>self-taught</strong>, in constant growth; <strong>I believe that I have everything that is required to develop solutions optimally, while communicating in a clear, simple and efficient way.</strong>*
 
 *I became passionate about web development! I keep my code clean, modularized, and focus on following the best practices.*
 
