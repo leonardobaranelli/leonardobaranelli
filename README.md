@@ -10,7 +10,7 @@ _Deep understanding of maths, algorithms, programming logic_ <br>
 _Deep self-knowledge and self-taught student_
 
 _<strong></></strong> +5 years learning about software development_ <br>
-_<strong></></strong> +1 year of experience in <strong>web</strong> development_
+_<strong></></strong> +1 year of non-formal experience in <strong>web</strong> development_
 
 _I became passionate about web development! I keep my code clean, modularized, and focus on following the best practices._
 
@@ -36,27 +36,30 @@ _<h4>Portfolio: https://leonardo-baranelli.vercel.app</h4>_
   <img src="https://img.shields.io/badge/-Postman-white">  
 </p>
 <p align="center">  
-  <img src="https://img.shields.io/badge/ Backend Stack A:--B04EB2"> 
-  <img src="https://img.shields.io/badge/-TypeScript-white"> 
+  <!-- <img src="https://img.shields.io/badge/ Backend Stack A:--B04EB2">  -->
+  <img src="https://img.shields.io/badge/ Backend:--B04EB2"> 
+  <img src="https://img.shields.io/badge/-TypeScript-white">   
   <img src="https://img.shields.io/badge/-NestJS/Express-white">
-  <img src="https://img.shields.io/badge/-TypeORM/Sequelize-white">
-  <img src="https://img.shields.io/badge/-MySQL/PostgreSQL-white">
+  <img src="https://img.shields.io/badge/-Firestore/Sequelize-white">
+  <!-- <img src="https://img.shields.io/badge/-TypeORM/Sequelize-white"> -->
+  <img src="https://img.shields.io/badge/-PostgreSQL-white">
+  <!-- <img src="https://img.shields.io/badge/-MySQL/PostgreSQL-white"> -->
 </p>  
-<p align="center">  
+<!-- <p align="center">  
   <img src="https://img.shields.io/badge/ Backend Stack B:--B04EB2"> 
   <img src="https://img.shields.io/badge/-PHP-white"> 
   <img src="https://img.shields.io/badge/-Laravel-white">
   <img src="https://img.shields.io/badge/-Inertia-white">  
   <img src="https://img.shields.io/badge/-MySQL/PostgreSQL-white">
-</p>
+</p> -->
 </p> 
 <p align="center">  
-  <img src="https://img.shields.io/badge/ Frontend :--1F7ADA"> 
+  <img src="https://img.shields.io/badge/ Frontend:--1F7ADA"> 
   <img src="https://img.shields.io/badge/-TypeScript-white">   
   <img src="https://img.shields.io/badge/-React-white"> 
   <img src="https://img.shields.io/badge/-Vite-white"> 
   <img src="https://img.shields.io/badge/-Redux Toolkit-white"> 
-  <img src="https://img.shields.io/badge/-Tailwind-white"> 
+  <!-- <img src="https://img.shields.io/badge/-Tailwind-white">  -->
 </p>
 
 _<h3>Just connect with me :)</h3>_
