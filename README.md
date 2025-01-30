@@ -37,9 +37,9 @@ _<h4>Portfolio: https://leonardo-baranelli.vercel.app</h4>_
 </p>
 
 <p align="center">      
-  <img src="https://img.shields.io/badge/ Overall:--1CC327"> 
+  <img src="https://img.shields.io/badge/ Overall:--1CC327">
   <img src="https://img.shields.io/badge/-Linux/Bash-white">  
-  <img src="https://img.shields.io/badge/-VSCode-white">  
+  <img src="https://img.shields.io/badge/-AI Powered Engineering tools-white">  
   <img src="https://img.shields.io/badge/-Git-white">    
   <img src="https://img.shields.io/badge/-GCP-white">  
   <img src="https://img.shields.io/badge/-Docker-white">  
