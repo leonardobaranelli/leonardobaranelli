@@ -4,7 +4,9 @@
 
 <p> </p>
 
-_Backend oriented Full Stack Web Developer, with studies in engineering, online academies and <strong>self-taught</strong>. Constantly growing, I believe I have what it takes to develop solutions optimally, communicating clearly and efficiently. Currently, I am focused on specializing in cutting-edge technologies for backend web development, with emphasis on the integration of AI and the implementation of solutions with AI through machine learning/deep learning._
+
+
+_Backend oriented Full Stack Web Developer, with studies in engineering, online academies and <strong>self-taught</strong>. In process and completely focused on becoming <strong>AI Powered Engineering</strong>. In constant growth, I am focused too on cutting-edge technologies for Web development Backend. With a lot of emphasis on the integration and implementation of AI, as well as the creation of solutions with AI through Machine Learning/Deep Learning._
 
 _Deep understanding of maths, algorithms, programming logic_ <br>
 _Deep self-knowledge and self-taught student_
