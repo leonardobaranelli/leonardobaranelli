@@ -11,8 +11,8 @@ _Backend oriented Full Stack Web Developer, with studies in engineering, online 
 _Deep understanding of maths, algorithms, programming logic_ <br>
 _Deep self-knowledge and self-taught student_
 
-_<strong></></strong> +5 years learning about software development_ <br>
-_<strong></></strong> +1 year of experience in <strong>web</strong> development_
+<!--_<strong></></strong> +5 years learning about software development_ <br>
+_<strong></></strong> +1 year of experience in <strong>web</strong> development_-->
 
 _I became passionate about web development! I keep my code clean, modularized, and focus on following the best practices._
 
