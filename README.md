@@ -1,79 +1,50 @@
-<div>
-    <img src="https://github.com/leonardobaranelli/leonardobaranelli/blob/main/banner.png"/>
+<div align="center">
+  <!-- <img src="https://github.com/leonardobaranelli/leonardobaranelli/blob/main/banner.png" width="100%"/>-->
+
+  <h1 align="center" style="border-bottom: none;">Backend Developer</h1>
+  
+  <p>
+    <a href="https://www.linkedin.com/in/leonardobaranelli"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+    <a href="https://leonardo-baranelli.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
+  </p>
 </div>
 
-<p> </p>
+_Backend Developer with around 3 years of experience. My work focuses on building scalable systems using **Node.js**, **TypeScript**, and mainly the **NestJS** framework, prioritizing clean architecture and end-to-end documented API development._
 
+_Coming from an engineering background, I apply a logic-driven approach to design backend services and integrate AI-powered features. While my main focus is the server-side, I also have experience working across the stack, mainly with **React**, when needed. I value **SOLID principles**, performance optimization, and maintainable code._
 
+<h3 style="color: #2ea44f;">🛠️ Core Technology Stack</h3>
 
-_Backend oriented Full Stack Web Developer, with studies in engineering, online academies and <strong>self-taught</strong>. In process and completely focused on becoming <strong>AI Powered Engineering</strong>. In constant growth, I am focused also on cutting-edge technologies for Web development Backend. With a lot of emphasis on the integration and implementation of AI, as well as the creation of solutions with AI through Machine Learning/Deep Learning._
-
-_Deep understanding of maths, algorithms, programming logic_ <br>
-_Deep self-knowledge and self-taught student_
-
-<!--_<strong></></strong> +5 years learning about software development_ <br>
-_<strong></></strong> +1 year of experience in <strong>web</strong> development_-->
-
-_I became passionate about web development! I keep my code clean, modularized, and focus on following the best practices._
-
-_<h4>Portfolio: https://leonardo-baranelli.vercel.app</h4>_
-
-**_<p align="center">MAIN TECHNOLOGIES<font color="blue">:</font></p>_**
-
-<p align="center"><a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="40"/></a><span> </span><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://upload.vectorlogo.zone/logos/gnu_bash/images/66582b8e-a291-4a1b-b89c-76628277a33b.svg" alt="bash" width="45" height="40"/></a><span> </span><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="40"/><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="42" height="40"/></a><span> </span><a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" alt="postman" width="43" height="40"/></a><span> </span><a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/530490/value.svg" alt="divider" width="13" height="40"/></a><a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="sql" width="40" height="40"/></a><a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a><span> </span><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a><span> </span><a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/530490/value.svg" alt="divider" width="13" height="40"/></a><span> </span><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a><a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a></p>
-
-<p align="center"><!--<a href="https://dotnet.microsoft.com/es-es/languages/csharp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="45" height="40"/></a><a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/768px-.NET_Core_Logo.svg.png" alt="dotnet" width="40" height="40"/></a><a href="https://learn.microsoft.com/en-us/ef" target="_blank" rel="noreferrer"><img src="https://www.tutorialspoint.com/images/entity_framework_icon.svg" alt="dotnet" width="50" height="40"/></a><a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/530490/value.svg" alt="divider" width="13" height="40"/></a>--><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="38"/></a><a href="https://nodejs.org"><picture><source width="42" height="30" media="(prefers-color-scheme: dark)" srcset="https://hdpng.com/images/javascript-vector-png-node-js-on-dark-background-1843.png"><img width="42" height="30" alt="nodejs" src="https://vishalvyas.com/wp-content/uploads/2024/01/nodejs.png"></picture></a><span> </span><a href="https://sequelize.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" alt="sequelize" width="40" height="40"/></a><span> </span><!--<a href="https://jestjs.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/></a>--><span> </span><a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/530490/value.svg" alt="divider" width="13" height="40"/></a><span> </span><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="38"/></a><a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="nestjs" width="50" height="40"/></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a><span> </span><a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a><span> </span><a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/530490/value.svg" alt="divider" width="13" height="40"/></a><span> </span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="45"/></a><span> </span><a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="38" height="38"/></a><span> </span><a href="https://inertiajs.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/47703742?s=200&v=4" alt="inertia" width="38" height="38"/></a><!--<a href="https://symfony.com" target="_blank" rel="noreferrer"><img src="https://symfony.com/logos/symfony_black_03.png" alt="symfony" width="40" height="40"/></a>-->
-<!--<span> </span><a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/530490/value.svg" alt="divider" width="13" height="40"/></a><a href="https://golang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/><a href="https://gofiber.io"><picture><source width="72" height="40" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gofiber/docs/master/static/img/logo-dark.svg"><img width="72" height="40" alt="Fiber" src="https://raw.githubusercontent.com/gofiber/docs/master/static/img/logo.svg"></picture></a><span> </span><a href="https://gorm.io" target="_blank" rel="noreferrer"><img src="https://gorm.io/gorm.svg" alt="gorm" width="72" height="35"/>--></p>
-
-<p align="center"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="41" height="42"/></a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="41" height="42"/></a><a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/530490/value.svg" alt="divider" width="13" height="40"/></a><span> </span><!--<a href="https://wordpress.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/768px-WordPress_blue_logo.svg.png" alt="wordpress" wdith="50" height="37"/></a><span>  </span><a href="https://www.notion.so/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/2048px-Notion-logo.svg.png" alt="notion" width="43" height="38"/></a><span> </span><a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/530490/value.svg" alt="divider" width="13" height="40"/></a><span></span>--><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://vitejs.dev/logo.svg" alt="vite" width="40" height="40"/></a><a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a><span> </span><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a><a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="51" height="40"/></a></p>
-
-**_<p align="center">Currently, I am mainly working with the following technology stack:</p>_**
-
-<p align="center">      
-  <img src="https://img.shields.io/badge/ ML/DL:--red">   
-  <img src="https://img.shields.io/badge/-Python-white">  
-  <img src="https://img.shields.io/badge/-TensorFlow-white">  
-  <img src="https://img.shields.io/badge/-Open Source models-white">      
+<span style="color: #8b949e;">_Backend & Architecture_</span>
+<p>
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
 </p>
 
-<p align="center">      
-  <img src="https://img.shields.io/badge/ Overall:--1CC327">
-  <img src="https://img.shields.io/badge/-Linux/Bash-white">  
-  <img src="https://img.shields.io/badge/-AI Powered Engineering tools-white">  
-  <img src="https://img.shields.io/badge/-Git-white">    
-  <img src="https://img.shields.io/badge/-GCP-white">  
-  <img src="https://img.shields.io/badge/-Docker-white">  
-  <img src="https://img.shields.io/badge/-Postman-white">  
-</p>
-<p align="center">  
-  <!-- <img src="https://img.shields.io/badge/ Backend Stack A:--B04EB2">  -->
-  <img src="https://img.shields.io/badge/ Backend:--B04EB2"> 
-  <img src="https://img.shields.io/badge/-TypeScript-white">   
-  <img src="https://img.shields.io/badge/-NestJS/Express-white">
-  <img src="https://img.shields.io/badge/-Firestore-white">
-  <!-- <img src="https://img.shields.io/badge/-TypeORM/Sequelize-white"> -->
-  <img src="https://img.shields.io/badge/-BigQuery-white">
-  <img src="https://img.shields.io/badge/-Gemini AI-white">
-  <!-- <img src="https://img.shields.io/badge/-MySQL/PostgreSQL-white"> -->
-</p>  
-<!-- <p align="center">  
-  <img src="https://img.shields.io/badge/ Backend Stack B:--B04EB2"> 
-  <img src="https://img.shields.io/badge/-PHP-white"> 
-  <img src="https://img.shields.io/badge/-Laravel-white">
-  <img src="https://img.shields.io/badge/-Inertia-white">  
-  <img src="https://img.shields.io/badge/-MySQL/PostgreSQL-white">
-</p> -->
-</p> 
-<p align="center">  
-  <img src="https://img.shields.io/badge/ Frontend:--1F7ADA"> 
-  <img src="https://img.shields.io/badge/-Vite-white">   
-  <img src="https://img.shields.io/badge/-TypeScript-white">   
-  <img src="https://img.shields.io/badge/-Vue-white"> 
-  <img src="https://img.shields.io/badge/-Tailwind-white">
+<span style="color: #8b949e;">_Databases & Caching_</span>
+<p>
+  <img src="https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postgres-316192?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
 </p>
 
-_<h3>Just connect with me :)</h3>_
+<span style="color: #8b949e;">_AI & Tools_</span>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />  
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+</p>
 
-_<h4 > LinkedIn: https://www.linkedin.com/in/leonardobaranelli</h4>_
-_<h4 > Email: leoabaranelli@gmail.com</h4>_
-![Funny Frog](funnyFrog.gif)
+<span style="color: #8b949e;">_Others_</span>
+<p> 
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+</p>
+
+_Currently, I am exploring spec driven development to stay aligned with cutting-edge software development methodologies. I am actively seeking new opportunities as a Backend Developer where I can contribute my skills and continue to grow as a supportive team member._
+
+_Always aiming to improve in all aspects. If you believe my profile matches what your team is looking for, please feel free to reach out via LinkedIn or send me an email at **leoabaranelli@gmail.com**._
