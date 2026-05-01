@@ -1,8 +1,5 @@
 <div align="center">
-  <!-- <img src="https://github.com/leonardobaranelli/leonardobaranelli/blob/main/banner.png" width="100%"/>-->
-
-  <h1 align="center" style="border-bottom: none;">Backend Developer</h1>
-  
+  <img src="https://github.com/leonardobaranelli/leonardobaranelli/blob/main/banner.png" width="100%"/>
   <p>
     <a href="https://www.linkedin.com/in/leonardobaranelli"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
     <a href="https://leonardo-baranelli.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
@@ -47,4 +44,4 @@ _Coming from an engineering background, I apply a logic-driven approach to desig
 
 _Currently, I am exploring spec driven development to stay aligned with cutting-edge software development methodologies. I am actively seeking new opportunities as a Backend Developer where I can contribute my skills and continue to grow as a supportive team member._
 
-_Always aiming to improve in all aspects. If you believe my profile matches what your team is looking for, please feel free to reach out via LinkedIn or send me an email at **leoabaranelli@gmail.com**._
+_Always aiming to improve in all aspects. If you believe my profile matches what your team is looking for, please feel free to reach out via LinkedIn or send me an email at leoabaranelli@gmail.com_
